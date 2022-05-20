@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "audio_quotes",
+		"stack": "node10",
+		"type": "applogic"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

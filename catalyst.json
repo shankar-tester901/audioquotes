@@ -1,0 +1,9 @@
+{
+  "applogic": {
+    "targets": [
+      "audio_quotes"
+    ],
+    "ignore": [],
+    "source": "applogic"
+  }
+}
